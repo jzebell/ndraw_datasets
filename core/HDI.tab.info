@@ -1,0 +1,23 @@
+{
+    "collection": "UNDP Human Development Reports",
+    "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, knowledge, and decent living. The data includes HDI as reported in 2015 and selected related socioeconomic from countries worldwide. We have removed HDI-related variables and countries with a missing HDI score.",
+    "name": "HDI",
+    "title": "HDI",
+    "instances": 188,
+    "variables": 53,
+    "missing": true,
+    "target": null,
+    "size": 46317,
+    "year": 2015,
+    "version": "3.1",
+    "tags": [
+        "economy",
+        "geo"
+    ],
+    "references": [],
+    "source": "<a href='https://www.kaggle.com/datasets/undp/human-development'>Human Development Data (1990-2015)</a>",
+    "url": "https://datasets.biolab.si/core/HDI.tab",
+    "seealso": [
+        "<a href='https://blog.biolab.si/2018/07/17/data-mining-and-machine-learning-for-economists/'>Data Mining and Machine Learning for Economists</a>."
+    ]
+}
